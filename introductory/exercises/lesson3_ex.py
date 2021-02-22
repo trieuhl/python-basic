@@ -56,3 +56,12 @@ def tinh_toan():
 
 if __name__ == '__main__':
     tinh_toan()
+
+    """
+    # ------------- OUTPUT -------------
+    tong ba so:  2  +  3  +  4  =  9
+    tich hai so:  5  *  6  =  30
+    hieu hai so:  7  -  8  =  -1
+    phep chia hai so:  9  /  10  =  0.9
+    # ------------- OUTPUT -------------
+    """
