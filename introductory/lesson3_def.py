@@ -32,8 +32,6 @@ def tinh_toan():
 if __name__ == '__main__':
     tinh_toan()
 
-    print("Toi yeu Viet Nam")
-
     """
     # ------------- OUTPUT -------------
     tong hai so
