@@ -28,6 +28,16 @@ if __name__ == '__main__':
     c = 0
     kiem_tra_so_duong(c)
 
+    # nhap vao mot so tu ban phim
+    d = input("Nhap vao mot so tu ban phim: ")
+
+    # chuyen so (string) thanh so nguyen (integer), in ra so vua nhap
+    d = int(d)
+    print("Ban vua nhap so: ", d)
+
+    # kiem tra
+    kiem_tra_so_duong(d)
+
     print()
     print("kiem tra tinh chia het")
     d = 6

@@ -30,6 +30,16 @@ if __name__ == '__main__':
     print(dat_nuoc, "=", chau_luc, dat_nuoc == chau_luc)
     print(chau_luc, "=", world_cup, chau_luc == world_cup)
 
+    # so sanh khac
+    print()
+    print("So sanh khac")
+    a = 1
+    b = 2
+    c = 1
+    print(a, " khac ", b, a != b)
+    print(a, " khac ", c, a != c)
+    print(dat_nuoc, " khac ", chau_luc, dat_nuoc != chau_luc)
+
     # so sanh lon hon bang, nho hon bang
     print()
     print("So sanh lon hon bang, nho hon bang")
@@ -50,5 +60,14 @@ if __name__ == '__main__':
     Viet Nam = Viet Nam True
     Viet Nam = Chau A False
     Chau A = Quatar 2022 False
+    
+    So sanh khac
+    1  khac  2 True
+    1  khac  1 False
+    Viet Nam  khac  Chau A True
+    
+    So sanh lon hon bang, nho hon bang
+    2 >= 0 True
+    3 <= 1 False
     # ------------- OUTPUT -------------
     """
