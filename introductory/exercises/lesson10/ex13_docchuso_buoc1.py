@@ -24,5 +24,16 @@ if __name__ == '__main__':
     print("c = ", c)
     print("cach doc: ", c)
 
-    ketqua = a + "TRAM" + b + "CHUC" + c
-    print("KET QUA: ", ketqua)
+    """
+    # ------------- OUTPUT -------------
+    n =  123
+    a =  1
+    cach doc:  1 TRAM
+    
+    bc =  23
+    b =  2
+    cach doc:  2 CHUC
+    c =  3
+    cach doc:  3
+    # ------------- OUTPUT -------------
+    """
