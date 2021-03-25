@@ -59,17 +59,17 @@ if __name__ == '__main__':
 
     """
     # ------------- OUTPUT -------------
-    n =  123
+    n =  100
     -----------------
     a =  1
     cach doc:  1 TRAM
     -----------------
-    bc =  23
-    b =  2
-    cach doc:  2 CHUC
+    bc =  0
+    b =  0
+    cach doc:  0 CHUC
     -----------------
-    c =  3
-    cach doc:  3 DON VI
-    123  CACH DOC:  MOT TRAM HAI MUOI BA
+    c =  0
+    cach doc:  0 DON VI
+    100  CACH DOC:  MOT TRAM 
     # ------------- OUTPUT -------------
     """
